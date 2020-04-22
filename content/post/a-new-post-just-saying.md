@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-04-28T22:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/favicon.svg"
 timeToRead = 13
